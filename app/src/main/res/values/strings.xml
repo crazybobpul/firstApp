@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="intro_message">안녕, 안드로이드</string>
+    <string name="connect">네이버접속하기</string>
+    <string name="call">전화걸기</string>
+    <string name="new_window">새화면 띄우기</string>
+</resources>
